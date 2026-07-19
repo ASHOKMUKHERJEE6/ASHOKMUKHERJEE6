@@ -1,12 +1,6 @@
 <h1 align="center">
-  Ashok Mukherjee
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=100&lines=Hi,+I'm+Ashok+Mukherjee+🚀;AI+Developer+%26+Cloud+Architect;Specializing+in+Generative+AI+%26+LLMs;Building+Deep+Research+Autonomous+Systems" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">
-  AI Developer & Cloud Architect | Specializing in Generative AI, LLMs & Autonomous Systems
-</h3>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
@@ -14,45 +8,51 @@
 
 <p align="center">
   <a href="https://github.com/ASHOKMUKHERJEE6">
-    <img src="https://komarev.com/ghpvc/?username=ASHOKMUKHERJEE6&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ASHOKMUKHERJEE6&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
-## 🌌 Core Focus & Architecture
+## 🌌 The AI Universe
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/network-loop.gif" width="300" style="border-radius: 10px;" />
 
-- 🔭 I’m currently architecting **[ULTRON & GENESIS]** — Deep Research Autonomous Agents capable of self-directed complex task execution.
-- 🧠 Specializing in **Large Language Models, Generative AI, Distributed Cloud Architecture, and Quantitative Trading**.
-- 🚀 Pushing the limits of **Agentic AI, Neural Networks, and High-Performance Computing**.
-- ⚡ **Fun fact**: I build highly scalable simulations that predict market movements and diagnostic AI capable of analyzing complex medical conditions.
+- 🔭 I’m currently architecting **ULTRON & GENESIS** (Deep Research Autonomous Agents).
+- 🧠 Specializing in **Large Language Models, Generative AI, Cloud Architecture, and Quantitative Trading**.
+- 🚀 Pushing the absolute limits of **Agentic AI & Neural Networks**.
+- ⚡ Fun fact: I build simulations that predict market movements and AI that diagnoses complex medical conditions!
+
+<br/><br/>
+
+## 🧊 Isometric Code Contributions
+<div align="center">
+  <picture>
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/ASHOKMUKHERJEE6/ASHOKMUKHERJEE6/master/profile-3d-contrib/profile-night-rainbow.svg" width="800">
+  </picture>
+</div>
 
 <br/>
 
 ## 📊 Analytics & Performance
 <div align="center">
   <a href="https://github.com/ASHOKMUKHERJEE6">
-    <img src="https://github-readme-stats.vercel.app/api?username=ASHOKMUKHERJEE6&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ASHOKMUKHERJEE6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="400" />
   </a>
   <a href="https://github.com/ASHOKMUKHERJEE6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHOKMUKHERJEE6&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&sideNums=ffffff&sideLabels=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHOKMUKHERJEE6&theme=tokyonight&hide_border=true" width="400" />
   </a>
 </div>
 
-<br/>
-
-## 🛠️ Tech Stack & Infrastructure
+## 🛠️ Tech Stack Core
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,git,github,docker,bash,linux,tensorflow,pytorch,cpp,aws,gcp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,git,github,docker,bash,linux,tensorflow,pytorch,cpp,html,css,aws,gcp&perline=10" />
 </div>
 
-<br/>
-
-## 🔥 High-Impact Autonomous Systems
+## 🔥 Top-Tier Autonomous Systems
 | Project | Description | Role |
 |---------|-------------|------|
-| **[ULTRON](https://github.com/ASHOKMUKHERJEE6/ULTRON)** | Next-gen Autonomous AI Agent Framework | Lead Architect |
-| **[MEDICO-AI](https://github.com/ASHOKMUKHERJEE6/MEDICO-AI)** | AI Medical Assistant & Complex Diagnosis Engine | Lead Developer |
+| **[ULTRON](https://github.com/ASHOKMUKHERJEE6/ULTRON)** | Next-gen Autonomous AI Agent | Lead Architect |
+| **[MEDICO-AI](https://github.com/ASHOKMUKHERJEE6/MEDICO-AI)** | AI Medical Assistant & Diagnosis | Lead Developer |
 | **[GENESIS](https://github.com/ASHOKMUKHERJEE6/GENESIS-Deep-Research-Agent)** | Deep Research Autonomous Agent | Lead Architect |
-| **[AlgoTrading](https://github.com/ASHOKMUKHERJEE6/Quantitative-Trading-Simulations)** | High-Frequency Quantitative Trading Simulations | Quant Developer |
+| **[AlgoTrading](https://github.com/ASHOKMUKHERJEE6/Quantitative-Trading-Simulations)** | Quant Trading Simulations | Quant Developer |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
