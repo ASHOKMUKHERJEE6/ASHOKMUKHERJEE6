@@ -8,21 +8,34 @@
 
 <p align="center">
   <a href="https://github.com/ASHOKMUKHERJEE6">
-    <img src="https://komarev.com/ghpvc/?username=ASHOKMUKHERJEE6&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ASHOKMUKHERJEE6&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
-## 🌌 About My 3D/AI Universe
+## 🌌 The 3D/AI Universe
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/network-loop.gif" width="300" style="border-radius: 10px;" />
 
-- 🔭 I’m currently working on **ULTRON & GENESIS** (Deep Research Autonomous Agents).
+- 🔭 I’m currently architecting **ULTRON & GENESIS** (Deep Research Autonomous Agents).
 - 🧠 Specializing in **Large Language Models, Generative AI, Cloud Architecture, and Quantitative Trading**.
-- 🚀 Exploring the boundaries of **Agentic AI & Neural Networks**.
+- 🚀 Pushing the absolute limits of **Agentic AI & Neural Networks**.
 - ⚡ Fun fact: I build simulations that predict market movements and AI that diagnoses complex medical conditions!
 
 <br/><br/>
 
-## 📊 Analytics & Streaks
+## 🧊 3D Isometric Code Contributions
+<div align="center">
+  <picture>
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ASHOKMUKHERJEE6/ASHOKMUKHERJEE6/main/profile-3d-contrib/profile-night-rainbow.svg" width="800">
+  </picture>
+</div>
+
+## 🏆 GitHub Achievements & Analytics
+<div align="center">
+  <a href="https://github.com/ASHOKMUKHERJEE6">
+    <img src="https://github-profile-trophy.vercel.app/?username=ASHOKMUKHERJEE6&theme=matrix&no-frame=true&no-bg=true&margin-w=15" width="800" />
+  </a>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/ASHOKMUKHERJEE6">
     <img src="https://github-readme-stats.vercel.app/api?username=ASHOKMUKHERJEE6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="400" />
@@ -32,27 +45,18 @@
   </a>
 </div>
 
-## 🐍 3D Contributions Grid
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASHOKMUKHERJEE6/ASHOKMUKHERJEE6/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASHOKMUKHERJEE6/ASHOKMUKHERJEE6/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ASHOKMUKHERJEE6/ASHOKMUKHERJEE6/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack Core
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,git,github,docker,bash,linux,tensorflow,pytorch,cpp,html,css,aws,gcp&perline=10" />
 </div>
 
-## 🔥 Top Projects
+## 🔥 Top-Tier Autonomous Systems
 | Project | Description | Role |
 |---------|-------------|------|
-| **[ULTRON](https://github.com/ASHOKMUKHERJEE6/ULTRON)** | Next-gen Autonomous AI Agent | Lead Developer |
+| **[ULTRON](https://github.com/ASHOKMUKHERJEE6/ULTRON)** | Next-gen Autonomous AI Agent | Lead Architect |
 | **[MEDICO-AI](https://github.com/ASHOKMUKHERJEE6/MEDICO-AI)** | AI Medical Assistant & Diagnosis | Lead Developer |
-| **[GENESIS](https://github.com/ASHOKMUKHERJEE6/GENESIS-Deep-Research-Agent)** | Deep Research Autonomous Agent | Lead Developer |
-| **[AlgoTrading](https://github.com/ASHOKMUKHERJEE6/Quantitative-Trading-Simulations)** | Quant Trading Simulations | Lead Developer |
+| **[GENESIS](https://github.com/ASHOKMUKHERJEE6/GENESIS-Deep-Research-Agent)** | Deep Research Autonomous Agent | Lead Architect |
+| **[AlgoTrading](https://github.com/ASHOKMUKHERJEE6/Quantitative-Trading-Simulations)** | Quant Trading Simulations | Quant Developer |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
