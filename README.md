@@ -1,42 +1,41 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                               ASHOK MUKHERJEE                                ║
-║               AI Architect • Cloud Engineer • FHE Researcher                 ║
-║                                                                              ║
-║                 Building Secure AI Systems for the Future                    ║
-║                                                                              ║
-║   [ Portfolio ] [ LinkedIn ] [ Google Scholar ] [ Website ] [ Contact ]      ║
-║                                                                              ║
-║   Visitors: 1,245,382  |  Followers: 25k+  |  Stars: 18k+                    ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=40&lines=>+Designing+AI+Systems...;>+Building+LLMs...;>+Homomorphic+Encryption...;>+Multi-Agent+Systems...;>+Cloud+Native...;>+Robotics..." alt="Typing SVG" />
+<img src="https://media.giphy.com/media/l41lW1n2Y3y6kZ2vG/giphy.gif" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #00F0FF;" />
 
 <br/>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/network-loop.gif" width="400" style="border-radius: 10px; border: 1px solid #333;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=>+ASHOK+MUKHERJEE+|+AI+Architect;>+Building+Secure+AI+Systems;>+LLMs+|+FHE+|+Cloud+Native" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/ashok-mukherjee-206a18261"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ASHOKMUKHERJEE6"><img src="https://komarev.com/ghpvc/?username=ASHOKMUKHERJEE6&label=System%20Access&color=00F0FF&style=for-the-badge" /></a>
+
+<br/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/network-loop.gif" width="500" style="border-radius: 10px; border: 1px solid #333;" />
 
 </div>
 
 ---
 
-## 🟢 Live Status Panel
+## 🟢 Live System Monitor
 
-```yaml
-system_status:
-  currently_working_on:
-    project: "ULTRON_AUTONOMUS_AGENT"
-    status: "Training / Refining Architecture"
-    gpu_cluster: "RTX 4090 / Cloud Tensor"
-    last_commit: "Just now"
-  metrics:
-    coffee_level: "████████░░ 80%"
-    mood: "🚀 High Output Mode"
-    uptime: "99.99%"
-```
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jIGs1e/giphy.gif" width="200" style="border-radius: 10px;" />
+      </td>
+      <td width="70%">
+        <h3><b>STATUS:</b> <span style="color:#00FF00">ONLINE</span></h3>
+        <p><b>ACTIVE PROTOCOL:</b> ULTRON_AUTONOMUS_AGENT (Training)</p>
+        <p><b>HARDWARE:</b> RTX 4090 / Cloud Tensor</p>
+        <p><b>SYSTEM UPTIME:</b> 99.99% | <b>COFFEE:</b> 80%</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
