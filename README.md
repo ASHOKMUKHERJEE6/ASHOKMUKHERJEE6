@@ -25,7 +25,7 @@
   <table width="100%">
     <tr>
       <td width="30%" align="center">
-        <!-- ULTRON SPHERE WILL GO HERE -->
+        <img src="ultron-sphere.gif" width="200" style="border-radius: 10px;" />
       </td>
       <td width="70%">
         <h3><b>STATUS:</b> <span style="color:#00FF00">ONLINE</span></h3>
