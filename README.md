@@ -1,66 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&pause=1000&color=22C55E&center=true&vCenter=true&width=1000&height=100&lines=Hi,+I'm+Ashok+Mukherjee+🚀;AI+Developer+%26+Cloud+Architect;Specializing+in+Generative+AI+%26+LLMs;Building+Deep+Research+Autonomous+Systems" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashok-mukherjee-206a18261">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ASHOKMUKHERJEE6">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/ASHOKMUKHERJEE6">
-    <img src="https://komarev.com/ghpvc/?username=ASHOKMUKHERJEE6&label=Profile%20Views&color=22C55E&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                               ASHOK MUKHERJEE                                ║
+║               AI Architect • Cloud Engineer • FHE Researcher                 ║
+║                                                                              ║
+║                 Building Secure AI Systems for the Future                    ║
+║                                                                              ║
+║   [ Portfolio ] [ LinkedIn ] [ Google Scholar ] [ Website ] [ Contact ]      ║
+║                                                                              ║
+║   Visitors: 1,245,382  |  Followers: 25k+  |  Stars: 18k+                    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=40&lines=>+Designing+AI+Systems...;>+Building+LLMs...;>+Homomorphic+Encryption...;>+Multi-Agent+Systems...;>+Cloud+Native...;>+Robotics..." alt="Typing SVG" />
 
 <br/>
 
-## 🌌 The AI Universe
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/network-loop.gif" width="300" style="border-radius: 10px;" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4382009/network-loop.gif" width="400" style="border-radius: 10px; border: 1px solid #333;" />
 
-- 🔭 I’m currently architecting **ULTRON_AUTONOMUS_AGENT** & **GENESIS** (Deep Research Autonomous Agents).
-- 🧠 Specializing in **Large Language Models, Generative AI, Cloud Architecture, and Quantitative Trading**.
-- 🚀 Pushing the absolute limits of **Agentic AI & Neural Networks**.
-- ⚡ Fun fact: I build simulations that predict market movements and AI that diagnoses complex medical conditions!
+</div>
 
-<br/><br/>
+---
 
-## 🔥 Top-Tier Autonomous Systems
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ASHOKMUKHERJEE6/ULTRON_AUTONOMUS_AGENT">⚡ ULTRON AUTONOMUS AGENT</a></h3>
-      <p align="center">Next-gen Autonomous AI Agent framework capable of self-directed complex task execution with vision and voice.</p>
-      <p align="center"><i>Lead Architect</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ASHOKMUKHERJEE6/GENESIS-Deep-Research-Agent">🌌 GENESIS</a></h3>
-      <p align="center">Deep Research Autonomous Agent focused on autonomous web scraping and synthesis.</p>
-      <p align="center"><i>Lead Architect</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ASHOKMUKHERJEE6/SEERGEN">🧠 SEERGEN</a></h3>
-      <p align="center">Advanced AI Medical Assistant & Complex Diagnosis Engine using Neural Networks.</p>
-      <p align="center"><i>Lead Developer</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/ASHOKMUKHERJEE6/Quantitative-Trading-Simulations">📈 AlgoTrading</a></h3>
-      <p align="center">High-Frequency Quantitative Trading Simulations predicting market movements.</p>
-      <p align="center"><i>Quant Developer</i></p>
-    </td>
-  </tr>
-</table>
+## 🟢 Live Status Panel
 
-<br/><br/>
+```yaml
+system_status:
+  currently_working_on:
+    project: "ULTRON_AUTONOMUS_AGENT"
+    status: "Training / Refining Architecture"
+    gpu_cluster: "RTX 4090 / Cloud Tensor"
+    last_commit: "Just now"
+  metrics:
+    coffee_level: "████████░░ 80%"
+    mood: "🚀 High Output Mode"
+    uptime: "99.99%"
+```
 
-## 🧊 Code Contributions
+---
+
+## 🌌 AI Dashboard & Code Contributions
+
 <div align="center">
   <picture>
     <img alt="Contribution Graph" src="https://raw.githubusercontent.com/ASHOKMUKHERJEE6/ASHOKMUKHERJEE6/master/profile-3d-contrib/profile-night-rainbow.svg" width="800">
@@ -73,15 +54,115 @@
   </picture>
 </div>
 
-<br/><br/>
+---
 
-## 🛠️ Tech Stack Core
+## 🏆 Featured Projects [Steam Card Format]
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ASHOKMUKHERJEE6/ULTRON_AUTONOMUS_AGENT">⚡ ULTRON AUTONOMUS AGENT</a></h3>
+      <p>⭐⭐⭐⭐⭐ | <b>AI Research</b></p>
+      <p>An advanced, autonomous AI personal assistant with real-time screen vision, proactive thinking, hands-free voice control, and local machine access.</p>
+      <p><code>[Source]</code> <code>[Architecture]</code> <code>[Video Demo]</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ASHOKMUKHERJEE6/GENESIS-Deep-Research-Agent">🌌 GENESIS</a></h3>
+      <p>⭐⭐⭐⭐⭐ | <b>Agentic Web Scraper</b></p>
+      <p>Deep Research Autonomous Agent focused on autonomous web scraping, synthesis, and deep logic analysis.</p>
+      <p><code>[Source]</code> <code>[Architecture]</code> <code>[Documentation]</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ASHOKMUKHERJEE6/SEERGEN">🧠 SEERGEN</a></h3>
+      <p>⭐⭐⭐⭐⭐ | <b>Medical AI</b></p>
+      <p>Advanced AI Medical Assistant & Complex Diagnosis Engine using Neural Networks.</p>
+      <p><code>[Source]</code> <code>[Open Paper]</code> <code>[Demo]</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ASHOKMUKHERJEE6/Quantitative-Trading-Simulations">📈 AlgoTrading</a></h3>
+      <p>⭐⭐⭐⭐ | <b>Quantitative Finance</b></p>
+      <p>High-Frequency Quantitative Trading Simulations predicting market movements using deep learning.</p>
+      <p><code>[Source]</code> <code>[Simulations]</code> <code>[Charts]</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📐 Architecture Gallery
+
+### Large Language Model (LLM) Pipeline
+```mermaid
+graph LR
+    A[Frontend] -->|JSON/REST| B(FastAPI Server)
+    B --> C{Context Engine}
+    C -->|Query| D[(Vector DB)]
+    D -->|Embeddings| C
+    C -->|Augmented Prompt| E[LLM Inference / TensorRT]
+    E -->|Streaming Tokens| B
+    B -->|WebSocket| A
+    
+    classDef highTech fill:#1E293B,stroke:#00F0FF,stroke-width:2px,color:#fff;
+    class A,B,C,D,E highTech;
+```
+
+---
+
+## ☁️ Cloud Infrastructure Visualization
+
+```mermaid
+flowchart TD
+    User((User)) -->|HTTPS| CF[Cloudflare WAF]
+    CF --> LB[AWS Application Load Balancer]
+    LB --> K8s{Kubernetes Cluster}
+    
+    subgraph EKS [AWS EKS]
+        K8s --> P1(Pod: API Gateway)
+        P1 --> P2(Pod: Worker Nodes)
+        P2 --> GPU[GPU Cluster: A100]
+    end
+    
+    GPU --> Redis[(Redis Cache)]
+    GPU --> Pinecone[(Vector DB)]
+    
+    classDef glow fill:#0F172A,stroke:#22C55E,stroke-width:2px,color:#fff;
+    class User,CF,LB,K8s,P1,P2,GPU,Redis,Pinecone glow;
+```
+
+---
+
+## 🪐 AI Tech Stack Galaxy
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,git,github,docker,bash,linux,tensorflow,pytorch,cpp,html,css,aws,gcp&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,ts,react,nextjs,nodejs&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,bash,docker,kubernetes,aws,gcp&perline=8" />
 </div>
 
-<br/><br/>
+---
+
+## 💻 Live Terminal
+
+```bash
+ashok@os:~$ help
+COMMANDS:
+  projects   - View active architectural systems
+  resume     - Download latest curriculum vitae
+  contact    - Initialize secure connection protocol
+  skills     - Display neural network competencies
+
+ashok@os:~$ sudo reveal-secret
+[sudo] password for ashok: **********
+> ACCESS GRANTED. Launching Matrix Protocol...
+```
+*(Pro tip: Try imagining the above commands are clickable!)*
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <a href="https://linkedin.com/in/ashok-mukherjee-206a18261"><code>[ linkedin ]</code></a> •
+  <a href="mailto:contact@example.com"><code>[ email ]</code></a> •
+  <a href="https://github.com/ASHOKMUKHERJEE6"><code>[ website ]</code></a>
 </div>
